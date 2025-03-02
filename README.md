@@ -6,9 +6,11 @@ I'm an aspiring Full Stack Developer passionate about developing sleek websites 
 ## Skills
 - Frontend Development: HTML, CSS, JavaScript, React.js
 - Backend Development: Node.js, Express.js
+- JS Frameworks: Next JS (for frontend and backend).
+- CSS Frameworks: Bootstrap, Tailwind CSS
 - Database: MongoDB
 - Programming: Python
-- Other Tools: Git, GitHub, Postman.
+- Other Tools: Git, GitHub, Postman, VS Code.
 <!--
 ## Projects
 - [Project Name](Link to Project): Brief description of the project.
